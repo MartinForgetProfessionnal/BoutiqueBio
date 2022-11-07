@@ -1,9 +1,7 @@
 #  **Projet Final `HTML CSS PHP`**
 
-## Travail présenté à: **Dini Ahamada**
 >##### Travail réalisé par ***Martin Forget*** et ***Martin Vézina***
 
-![Logo_Rosemont](/images/logo_college_rosemontReduit.png)
 
 # **Présentation du projet**
 
